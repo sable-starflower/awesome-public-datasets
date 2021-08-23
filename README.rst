@@ -9,17 +9,18 @@ This repo is a checklist indicating which datasets I'm using / have rejected. Pu
 Legend (TODO)
 -------------
 
-.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
-.. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
+.. |OK_ICON| replace:: ❔
+.. |FIXME_ICON| replace:: ❔
+.. |USING| replace:: ✅
+.. |EVAL| replace:: ❔
+.. |REJECTED| replace:: ❌
 
-* |OK_ICON| I am well. (TODO: from upstream)
-* |FIXME_ICON| Please fix me. (TODO: from upstream)
-* Currently using
-* Rejected
+* |USING| Currently using
+* |EVAL| Not yet evaluated
+* |REJECTED| Rejected
 
 .. contents:: **Table of Contents**
 
-    
 Agriculture
 -----------
         
